@@ -1,0 +1,620 @@
+================================================================================
+SURETY CLAIM FILE — MASTER CASE DOCUMENT
+Berkshire Hathaway Specialty Insurance (BHSI) — Surety Claims Division
+CONFIDENTIAL — FOR INTERNAL CLAIMS HANDLING ONLY
+================================================================================
+
+Document ID:            SCF-CLM-2026-0042-MASTER
+Claim Number:           CLM-2026-0042
+Bond Number:            SUR8843012
+Bond Type:              Performance Bond (Public Works)
+Date Document Compiled: March 30, 2026
+Compiled By:            Sarah Whitfield, Senior Claims Adjuster
+File Status:            OPEN — ACTIVE INVESTIGATION
+Severity Rating:        HIGH
+Reserve Category:       Level 3 (Executive Notification Required)
+
+--------------------------------------------------------------------------------
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+1.  Account & Relationship Overview
+2.  Principal Profile
+3.  Obligee Profile
+4.  Bond Details & Terms
+5.  Project Description
+6.  Notice of Claim — Full Text
+7.  Timeline of Events
+8.  Investigation Findings
+9.  Financial Analysis & Reserve Worksheet
+10. Loss Payments Ledger
+11. ALAE / Expense Payments
+12. Recovery & Salvage Analysis
+13. Indemnity Agreement Summary
+14. Litigation Status
+15. Correspondence Log
+16. Adjuster Notes & Strategy
+17. Risk Flags & Escalation
+18. Next Actions & Diary Dates
+
+================================================================================
+1. ACCOUNT & RELATIONSHIP OVERVIEW
+================================================================================
+
+Account Name:           Acme Construction Holdings Group
+Account Number:         ACC-88213
+Account Manager:        Daniel Reyes (Underwriting)
+Relationship Since:     January 2018
+Total Bonded Program:   $45,000,000 aggregate
+Single Bond Limit:      $5,000,000
+Program Status:         Under Review (following current claim)
+
+Acme Construction Holdings Group is a mid-sized general contracting enterprise
+headquartered in Riverside, California. The account has historically maintained
+a clean loss record with BHSI, with only two minor payment bond claims since
+2018, both resolved without loss to the surety. The account operates through
+several subsidiaries, the most active of which is Acme Construction LLC, the
+principal named on Bond SUR8843012.
+
+The hierarchical structure of this account for claims-handling purposes is:
+
+    Account:    Acme Construction Holdings Group (ACC-88213)
+      └─ Principal: Acme Construction LLC
+           └─ Bond:  SUR8843012 (Performance Bond, $1,250,000 penal sum)
+                └─ Claim: CLM-2026-0042 (Notice received 03/12/2026)
+
+The account's bonded backlog at the time of the claim was approximately
+$18.4 million across nine active projects in California and Nevada. The current
+claim represents the first performance bond default in the account's history
+with BHSI and has triggered a full program review by the underwriting team.
+
+================================================================================
+2. PRINCIPAL PROFILE
+================================================================================
+
+Principal Legal Name:   Acme Construction LLC
+Principal Contact:      Michael Torrance, Chief Operating Officer
+Principal Address:      1420 Industrial Parkway, Riverside, CA 92501
+Principal Phone:        (951) 555-0142
+Principal Email:        legal@acmeconstruction.com
+Federal Tax ID:         XX-XXXXX882
+Years in Business:      14
+Bonding Capacity:       $5,000,000 single / $45,000,000 aggregate
+Trade Classification:   General Engineering Contractor (California Class A)
+
+Acme Construction LLC specializes in heavy civil and public infrastructure
+projects, including transit terminals, water treatment facilities, and municipal
+road works. The company employs approximately 180 workers and has completed more
+than 60 public works projects over the past decade.
+
+Financial Condition (as of most recent statement, Q4 2025):
+  - Working Capital:        $2.1 million (declining from $4.8 million in Q1 2025)
+  - Current Ratio:          1.12 (down from 1.9)
+  - Cash on Hand:           $640,000
+  - Outstanding Receivables:$8.3 million (aging concern: $2.7M over 90 days)
+  - Line of Credit:         $6,000,000 (fully drawn as of February 2026)
+
+The deteriorating financial position through late 2025 and early 2026 is a
+central factor in the current default. The fully drawn line of credit and
+declining working capital suggest a liquidity crisis that ultimately prevented
+the principal from funding project completion. Underwriting notes from the
+December 2025 renewal flagged the working-capital decline but renewed the program
+on the strength of the receivables and prior performance.
+
+================================================================================
+3. OBLIGEE PROFILE
+================================================================================
+
+Obligee Legal Name:     City of Riverside Public Works Department
+Obligee Contact:        Patricia Nguyen, Director of Capital Projects
+Obligee Address:        3900 Main Street, Riverside, CA 92522
+Obligee Phone:          (951) 555-0900
+Obligee Email:          claims@riverside-pw.gov
+Legal Representation:    Harmon & Wells LLP, Attn: Robert Harmon, Esq.
+
+The City of Riverside Public Works Department is the obligee under Bond
+SUR8843012. The department administers capital infrastructure projects for the
+municipality and required the performance bond as a condition of awarding the
+Downtown Transit Terminal Modernization contract to Acme Construction LLC.
+
+The obligee has engaged outside counsel (Harmon & Wells LLP) and has been
+professional but firm in its demands. The Director of Capital Projects,
+Patricia Nguyen, has indicated the city's strong preference for the surety to
+arrange completion of the work rather than tender the penal sum, citing the
+public importance of the transit project and an active grant-funding deadline
+tied to the Federal Transit Administration.
+
+================================================================================
+4. BOND DETAILS & TERMS
+================================================================================
+
+Bond Number:            SUR8843012
+Bond Type:              Performance Bond
+Bond Form:              AIA A312 (2010 Edition) Performance Bond
+Penal Sum:              $1,250,000.00
+Effective Date:         June 15, 2025
+Contract Bonded:        Downtown Transit Terminal Modernization, Phase 2
+Contract Amount:        $1,250,000.00
+Surety:                 Berkshire Hathaway Specialty Insurance
+Principal:              Acme Construction LLC
+Obligee:                City of Riverside Public Works Department
+
+Key Bond Provisions (AIA A312):
+  - Section 3: The surety's obligation arises after (a) the obligee declares a
+    contractor default, (b) the obligee terminates the contract, and (c) the
+    obligee agrees to pay the balance of the contract price to the surety or a
+    completion contractor.
+  - Section 4: Surety options upon default include: (4.1) arrange for the
+    contractor to perform; (4.2) undertake completion itself through agents or
+    independent contractors; (4.3) obtain bids for completion and arrange a
+    contract; or (4.4) waive its right to complete and either pay the obligee or
+    deny liability with reasons.
+  - Section 5: The surety's total obligation shall not exceed the penal sum of
+    $1,250,000.
+
+A companion Payment Bond (SUR8843013, same penal sum) was also issued for this
+project but is tracked under a separate sub-claim, as several subcontractors have
+begun asserting payment claims. See cross-reference note in Section 14.
+
+================================================================================
+5. PROJECT DESCRIPTION
+================================================================================
+
+Project Name:           Downtown Transit Terminal Modernization, Phase 2
+Project Location:       500 Transit Way, Riverside, CA 92501
+Original Contract Sum:  $1,250,000.00
+Notice to Proceed:      July 1, 2025
+Contract Completion:    May 30, 2026 (original)
+Percent Complete:       Approximately 58% at time of abandonment
+Scope Summary:          Structural steel erection, platform canopy installation,
+                        electrical rough-in, ADA-compliant access ramps, and
+                        pedestrian concourse finishes for the city's central
+                        transit hub.
+
+The project involved the modernization of the city's primary bus and light-rail
+interchange. At the time of the principal's abandonment on February 28, 2026,
+the structural steel frame was approximately 75% erected, the platform canopy
+had not been installed, electrical rough-in was partially complete, and no
+finish work had begun. Subcontractors on site included Summit Steel Erectors,
+Pacific Electrical Systems, and Riverside Concrete & Paving.
+
+The city's independent engineering consultant, Meridian Infrastructure Advisors,
+estimated the cost to complete the remaining work at $840,000, which exceeds the
+undisbursed contract balance of $525,000 by $315,000. This shortfall is a primary
+driver of the projected loss and is discussed further in the financial analysis.
+
+================================================================================
+6. NOTICE OF CLAIM — FULL TEXT
+================================================================================
+
+The following is the full text of the Notice of Claim received by BHSI on
+March 12, 2026, via certified mail and email (claims@riverside-pw.gov).
+
+    -----------------------------------------------------------------------
+    NOTICE OF CLAIM UNDER PERFORMANCE BOND
+
+    Date: March 10, 2026
+    To:   Berkshire Hathaway Specialty Insurance, Surety Claims Division
+    Re:   Bond No. SUR8843012 — Downtown Transit Terminal Modernization
+
+    Dear Sir or Madam:
+
+    This letter constitutes formal notice of claim under the above-referenced
+    performance bond. The City of Riverside Public Works Department (the
+    "Obligee") hereby notifies Berkshire Hathaway Specialty Insurance (the
+    "Surety") that Acme Construction LLC (the "Principal") has defaulted on its
+    obligations under the contract dated June 15, 2025 for the Downtown Transit
+    Terminal Modernization, Phase 2 project (the "Project").
+
+    The Principal ceased all work at the Project site on February 28, 2026 and
+    has abandoned the Project, leaving structural steel partially erected,
+    subcontractors unpaid, and the Project approximately 58% complete. The
+    Obligee issued a Notice to Cure to the Principal on February 10, 2026, which
+    expired without adequate response. The Obligee formally declared the
+    Principal in default and terminated the contract on March 5, 2026.
+
+    Pursuant to the terms of the bond, the Obligee demands that the Surety
+    promptly (a) arrange for completion of the remaining work, or (b) tender the
+    penal sum of $1,250,000 to the Obligee. The Obligee's independent estimate of
+    the cost to complete is $840,000. The Obligee notes that this Project is
+    subject to a Federal Transit Administration grant with a completion deadline
+    of September 30, 2026, and that time is of the essence.
+
+    Please be advised that a statutory response period of thirty (30) days
+    applies. Failure to respond within this period may result in the Obligee
+    pursuing all available legal remedies, including litigation for bad faith.
+
+    Sincerely,
+    Patricia Nguyen
+    Director of Capital Projects
+    City of Riverside Public Works Department
+    On behalf of the Obligee, with counsel Harmon & Wells LLP
+    -----------------------------------------------------------------------
+
+================================================================================
+7. TIMELINE OF EVENTS
+================================================================================
+
+June 15, 2025      Performance Bond SUR8843012 issued; contract executed.
+July 1, 2025       Notice to Proceed issued; construction begins.
+September 2025     Project on schedule; first two pay applications approved.
+November 2025      First signs of delay; steel delivery slips two weeks.
+December 2025      Principal's Q4 financials show working-capital decline.
+January 15, 2026   Subcontractor Summit Steel reports slow payment from Principal.
+January 28, 2026   Principal requests contract acceleration payment; city declines.
+February 5, 2026   Subcontractor Pacific Electrical files preliminary lien notice.
+February 10, 2026  Obligee issues Notice to Cure to Principal (14-day period).
+February 24, 2026  Cure period expires without adequate corrective action.
+February 28, 2026  Principal abandons the Project site; all work ceases.
+March 5, 2026      Obligee declares default and terminates contract.
+March 10, 2026     Obligee sends Notice of Claim to Surety.
+March 12, 2026     Surety (BHSI) receives Notice of Claim; file opened.
+March 14, 2026     Claim assigned to Senior Adjuster Sarah Whitfield.
+March 18, 2026     Initial site inspection conducted with Meridian Advisors.
+March 20, 2026     Reserve established; executive notification issued.
+March 25, 2026     Demand letter received from Summit Steel (payment bond).
+March 28, 2026     Principal's COO agrees to preliminary indemnity discussion.
+March 30, 2026     Master case document compiled (this file).
+
+================================================================================
+8. INVESTIGATION FINDINGS
+================================================================================
+
+The claims investigation, led by Sarah Whitfield with support from Meridian
+Infrastructure Advisors and coverage counsel, has produced the following
+preliminary findings:
+
+Finding 8.1 — Validity of Default:
+The obligee followed the contractual and A312 procedures correctly. A Notice to
+Cure was issued February 10, 2026, the cure period lapsed, and a formal default
+declaration and contract termination were issued March 5, 2026. The default
+appears valid and the surety's completion obligation is properly triggered.
+
+Finding 8.2 — Cause of Default:
+The principal's abandonment was driven primarily by a liquidity crisis. The fully
+drawn $6M line of credit, declining working capital, and $2.7M in aged
+receivables left the principal unable to fund subcontractor payments and material
+purchases. There is no evidence of fraud, but there is evidence of over-extension
+across multiple concurrent projects.
+
+Finding 8.3 — State of the Work:
+The independent engineer confirmed the project is approximately 58% complete.
+Structural steel is 75% erected but requires inspection for weld integrity after
+the work stoppage exposed connections to weather. The platform canopy materials
+were purchased and are stored on site (estimated value $95,000) — a potential
+salvage credit.
+
+Finding 8.4 — Subcontractor Exposure:
+At least three subcontractors are owed money by the principal: Summit Steel
+Erectors ($148,000), Pacific Electrical Systems ($86,400), and Riverside Concrete
+& Paving ($42,000). These claims arise under the companion payment bond and are
+tracked separately but affect the completion strategy, as re-engaging these
+subcontractors may be more cost-effective than mobilizing new ones.
+
+Finding 8.5 — Completion Cost Verification:
+Meridian Advisors independently estimated the cost to complete at $840,000. The
+surety's completion consultant is preparing competitive bids under A312 Section
+4.3. Preliminary informal quotes range from $815,000 to $910,000, broadly
+confirming the obligee's estimate.
+
+================================================================================
+9. FINANCIAL ANALYSIS & RESERVE WORKSHEET
+================================================================================
+
+RESERVE WORKSHEET — Claim CLM-2026-0042 / Bond SUR8843012
+Prepared by: Sarah Whitfield | Approved by: Gregory Palmer, Claims Manager
+Reserve Date: March 20, 2026
+
+  A. Cost to Complete (loss reserve)................ $840,000
+  B. Undisbursed Contract Balance (offset)......... ($525,000)
+  C. Net Completion Exposure (A - B)............... $315,000
+
+  D. ALAE / Expense Reserve........................ $95,000
+     - Consultant / engineering fees:  $45,000
+     - Legal / coverage counsel:       $35,000
+     - Investigation & travel:         $15,000
+
+  E. Subcontractor Payment Exposure (payment bond). $276,400
+     (tracked under companion bond SUR8843013)
+
+  F. Gross Reserve (C + D).......................... $410,000
+  G. Anticipated Recovery (indemnity/salvage)...... ($300,000)
+  H. Net Reserve Position (F - G).................. $110,000
+
+Notes on Reserve Methodology:
+The gross reserve of $410,000 reflects the net completion exposure plus expected
+loss adjustment expenses. The undisbursed contract balance of $525,000 is a
+critical offset: under the A312 bond, the surety is entitled to the remaining
+contract funds when it completes the work, so only the shortfall above that
+balance represents true completion loss.
+
+The anticipated recovery of $300,000 is based on the General Indemnity Agreement
+(see Section 13) signed by the principal and two personal indemnitors, plus an
+estimated $95,000 salvage value in stored canopy materials. The net reserve
+position of $110,000 assumes moderate recovery success; a conservative scenario
+with no recovery would raise the net reserve to $410,000.
+
+Reserve Sensitivity Analysis:
+  - Best case (full recovery, low completion cost):   Net loss ~$45,000
+  - Expected case (moderate recovery):                Net loss ~$110,000
+  - Worst case (no recovery, high completion cost):   Net loss ~$465,000
+
+================================================================================
+10. LOSS PAYMENTS LEDGER
+================================================================================
+
+The following loss payments have been made or are pending as of March 30, 2026:
+
+Date         Payee                          Description                Amount
+-----------  -----------------------------  -------------------------  ----------
+2026-03-22   Meridian Infrastructure Adv.   Initial site assessment    $18,500
+2026-03-27   Coverage Counsel (Bryce LLP)   Coverage opinion retainer  $20,000
+PENDING      Completion Contractor (TBD)    Mobilization deposit       $85,000
+PENDING      Summit Steel Erectors          Re-engagement (payment bd) $148,000
+
+Total Paid to Date:                                                    $38,500
+Total Pending / Committed:                                            $233,000
+Remaining Reserve After Commitments:                                  $138,500
+
+All payments are logged against the claim in the financial tracking system and
+reconciled monthly. Loss payments are distinguished from ALAE: amounts paid to
+complete the bonded work are loss; amounts paid to investigate and adjust the
+claim are ALAE (see Section 11).
+
+================================================================================
+11. ALAE / EXPENSE PAYMENTS
+================================================================================
+
+Allocated Loss Adjustment Expenses (ALAE) are expenses directly attributable to
+the handling of this specific claim, as distinct from the loss itself.
+
+Date         Vendor                         Purpose                    Amount
+-----------  -----------------------------  -------------------------  ----------
+2026-03-18   Meridian Infrastructure Adv.   Engineering inspection     $12,000
+2026-03-22   Bryce & Associates LLP         Coverage counsel           $20,000
+2026-03-24   FieldPro Investigations        Site documentation         $6,500
+2026-03-29   Traveldesk Corporate           Adjuster travel (2 trips)  $2,800
+
+Total ALAE Paid to Date:                                              $41,300
+ALAE Reserve Remaining:                                               $53,700
+
+ALAE is capped at the reserve of $95,000 and is reviewed at each diary date. Any
+projected overrun requires manager approval. Expenses relating to recovery
+actions against the indemnitors will be tracked as a separate recovery expense
+category once litigation or negotiation formally commences.
+
+================================================================================
+12. RECOVERY & SALVAGE ANALYSIS
+================================================================================
+
+Recovery potential in this claim is considered MODERATE TO STRONG, driven by a
+valid General Indemnity Agreement (GIA) and identifiable salvage.
+
+12.1 Indemnity Recovery:
+The GIA (Section 13) is signed by Acme Construction LLC and two personal
+indemnitors: Michael Torrance (COO) and Janet Torrance. Preliminary asset checks
+indicate the personal indemnitors own real property in Riverside County with
+estimated equity of $480,000 and $310,000 respectively. However, the corporate
+principal's liquidity crisis reduces the practical near-term recovery from the
+entity itself.
+
+12.2 Salvage Recovery:
+Approximately $95,000 in platform canopy materials were purchased by the
+principal and are stored at the project site. If usable by the completion
+contractor, these materials represent a direct offset to completion cost.
+
+12.3 Contract Balance:
+The undisbursed contract balance of $525,000 held by the obligee is available to
+the surety upon completion under the A312 bond, functioning economically as a
+recovery/offset against completion expenditures.
+
+12.4 Estimated Total Recovery:
+  - Contract balance offset:      $525,000 (applied against completion)
+  - Salvage (canopy materials):   $95,000
+  - Indemnity (net practical):    $205,000 (estimated, subject to litigation)
+  - Total estimated recovery:     ~$300,000 (net of contract offset already modeled)
+
+Recovery strategy will prioritize the salvage and contract balance (immediate,
+low-cost) before pursuing indemnity litigation (slower, expense-heavy). Counsel
+recommends securing the personal indemnitors' cooperation via a forbearance and
+payment plan before escalating to suit.
+
+================================================================================
+13. INDEMNITY AGREEMENT SUMMARY
+================================================================================
+
+General Indemnity Agreement (GIA)
+Executed:               May 20, 2025
+Indemnitors:            (1) Acme Construction LLC (corporate)
+                        (2) Michael Torrance (individual)
+                        (3) Janet Torrance (individual)
+
+Key Provisions:
+  - The indemnitors jointly and severally agree to indemnify and hold the surety
+    harmless from all loss, cost, and expense (including attorneys' fees) arising
+    from any bond issued on the principal's behalf.
+  - The indemnitors grant the surety the right to settle or compromise any claim
+    at its sole discretion, and agree that the surety's payment vouchers are
+    prima facie evidence of the fact and amount of liability.
+  - The indemnitors agree to post collateral upon written demand by the surety in
+    an amount the surety deems sufficient to cover any actual or potential loss.
+  - The agreement includes an assignment of contract proceeds, subcontracts, and
+    materials to the surety in the event of default.
+
+Collateral Demand Status:
+A written collateral demand for $410,000 was prepared on March 26, 2026 and is
+pending manager approval before service on the indemnitors. The strength of the
+GIA is a significant positive factor in the net reserve analysis.
+
+================================================================================
+14. LITIGATION STATUS
+================================================================================
+
+Current Litigation:     None filed as of March 30, 2026 (pre-litigation posture)
+Litigation Risk:        MODERATE-HIGH
+
+14.1 Obligee Bad-Faith Exposure:
+The obligee's counsel (Harmon & Wells LLP) referenced potential bad-faith
+litigation in the Notice of Claim if the surety fails to respond within the
+30-day statutory window (expiring approximately April 9, 2026). Prompt, good-faith
+engagement and a written response electing a completion option are the primary
+mitigants. Counsel advises documenting all decisions thoroughly.
+
+14.2 Subcontractor Payment-Bond Actions:
+Summit Steel Erectors sent a demand letter on March 25, 2026 for $148,000 under
+the companion payment bond (SUR8843013) and has threatened to file suit within
+15 days. Pacific Electrical Systems ($86,400) has filed a preliminary lien notice.
+These are tracked under the payment-bond sub-claim but influence completion
+strategy.
+
+14.3 Indemnity Recovery Litigation (Prospective):
+If the personal indemnitors do not cooperate with the collateral demand and
+payment plan, the surety may file suit to enforce the GIA and collect against the
+indemnitors' real-property equity. This is a prospective action, not yet filed.
+
+Cross-Reference: The payment-bond sub-claim is documented in file
+SCF-CLM-2026-0042B and should be reviewed together with this master file for any
+global settlement strategy.
+
+================================================================================
+15. CORRESPONDENCE LOG
+================================================================================
+
+Date         From / To                         Channel     Summary
+-----------  -------------------------------   ---------   --------------------
+2026-03-10   Obligee → Surety                  Cert. Mail  Notice of Claim
+2026-03-12   Surety (auto-ack) → Obligee       Email       Receipt acknowledged
+2026-03-15   Adjuster → Principal COO          Phone       Intro; default discussion
+2026-03-17   Adjuster → Obligee Director       Email       Scheduling site visit
+2026-03-18   Joint Site Inspection             In Person   Meridian + city + surety
+2026-03-19   Adjuster → Coverage Counsel       Email       Requested coverage opinion
+2026-03-23   Coverage Counsel → Adjuster       Letter      Coverage confirmed; A312
+2026-03-25   Summit Steel → Surety             Email       Payment bond demand
+2026-03-26   Adjuster → Manager                Internal    Collateral demand draft
+2026-03-28   Principal COO → Adjuster          Phone       Willing to discuss indemnity
+2026-03-29   Obligee Counsel → Surety          Email       Reminder of 30-day deadline
+
+All correspondence is retained in the document management system (Hyland OnBase)
+and indexed to the claim. Real-time updates on new correspondence are broadcast
+to the claims team dashboard.
+
+================================================================================
+16. ADJUSTER NOTES & STRATEGY
+================================================================================
+
+Adjuster: Sarah Whitfield
+Note Date: March 30, 2026
+
+This is a textbook A312 performance-bond default with a valid termination and a
+cooperative obligee that prefers completion over tender. My recommended strategy
+is to elect completion under Section 4.3 (obtain bids and arrange a completion
+contract) rather than tender the penal sum, for three reasons:
+
+  1. The obligee strongly prefers completion due to the FTA grant deadline, and
+     good-faith completion mitigates bad-faith exposure.
+  2. Completion allows the surety to control costs and apply the $525,000 contract
+     balance directly, whereas a straight tender of the $1,250,000 penal sum would
+     be far more expensive.
+  3. Re-engaging the existing subcontractors (Summit Steel in particular) may be
+     cheaper and faster than full re-mobilization, and helps resolve the parallel
+     payment-bond claims.
+
+The key risks are: (a) the 30-day statutory deadline (~April 9) — we must send a
+written election letter before then; (b) completion cost overruns above the
+$840,000 estimate; and (c) the principal's liquidity crisis limiting near-term
+indemnity recovery. I have drafted the collateral demand and am awaiting manager
+approval.
+
+Overall, I project a net loss in the range of $110,000 (expected) with strong
+mitigation from the contract balance, salvage, and GIA. I have rated this claim
+HIGH severity due to the penal sum, the statutory deadline, and the bad-faith and
+litigation exposure, warranting executive notification.
+
+================================================================================
+17. RISK FLAGS & ESCALATION
+================================================================================
+
+  [X] HIGH VALUE — Penal sum $1,250,000 exceeds Level 3 threshold ($250,000).
+  [X] STATUTORY DEADLINE — 30-day response window expires ~April 9, 2026.
+  [X] BAD-FAITH EXPOSURE — Obligee counsel referenced bad-faith litigation.
+  [X] PARALLEL PAYMENT-BOND CLAIMS — Multiple subcontractor demands pending.
+  [X] PRINCIPAL INSOLVENCY RISK — Fully drawn credit line; liquidity crisis.
+  [ ] FRAUD INDICATORS — None identified.
+  [X] EXECUTIVE NOTIFICATION — Required due to Level 3 reserve category.
+
+Escalation Path:
+  Adjuster (Whitfield) → Claims Manager (Palmer) → Claims Director → VP Surety.
+Executive notification was issued March 20, 2026 upon reserve establishment.
+
+================================================================================
+18. NEXT ACTIONS & DIARY DATES
+================================================================================
+
+Priority  Action                                             Owner        Due
+--------  -------------------------------------------------  -----------  ----------
+HIGH      Send written completion-election letter to obligee Whitfield    2026-04-05
+HIGH      Obtain manager approval; serve collateral demand   Palmer       2026-04-02
+HIGH      Finalize competitive completion bids (A312 4.3)     Consultant   2026-04-08
+MEDIUM    Negotiate re-engagement with Summit Steel           Whitfield    2026-04-07
+MEDIUM    Confirm salvage value of stored canopy materials    Meridian     2026-04-04
+MEDIUM    Coordinate payment-bond sub-claim strategy          Whitfield    2026-04-10
+LOW       Update reserve after bids received                  Whitfield    2026-04-12
+LOW       Prepare indemnitor payment-plan proposal            Counsel      2026-04-15
+
+Next Diary Review Date: April 6, 2026
+File Owner: Sarah Whitfield, Senior Claims Adjuster
+Manager: Gregory Palmer
+
+================================================================================
+END OF MASTER CASE DOCUMENT — SCF-CLM-2026-0042-MASTER
+================================================================================
+
+
+################################################################################
+# SECONDARY CLAIM FILE — SUMMARY DOCUMENT
+# Claim CLM-2026-0091 — Pioneer Paving Payment Bond Claim
+################################################################################
+
+Claim Number:           CLM-2026-0091
+Bond Number:            SUR7710455
+Bond Type:              Payment Bond
+Penal Sum:              $500,000.00
+Principal:              Pioneer Paving Inc.
+Obligee:                Nevada Department of Transportation
+Claimant:               Summit Aggregates (subcontractor/supplier)
+Claim Amount:           $215,400.00
+Date Received:          February 5, 2026
+Severity:               MEDIUM
+Status:                 OPEN — UNDER REVIEW
+
+Summary:
+Summit Aggregates, a materials supplier, submitted a payment bond claim for
+$215,400 in unpaid aggregate and asphalt materials supplied to Pioneer Paving
+Inc. between November 2025 and January 2026 on the Nevada DOT Route 95
+resurfacing project. The claimant provided signed delivery tickets and a
+notarized proof of claim. Pioneer Paving disputes $38,000 of the claim, alleging
+a portion of the delivered material failed gradation specifications.
+
+Investigation is focused on verifying the delivery tickets against the project
+records and evaluating the gradation dispute with an independent materials lab.
+The principal remains financially solvent, and recovery under the indemnity
+agreement is considered strong. The claimant has threatened litigation if payment
+is not made within 15 days of the February 5 demand.
+
+Key Dates:
+  2025-11-01  First material deliveries begin.
+  2026-01-31  Final delivery; principal payment stops.
+  2026-02-05  Summit Aggregates files payment bond demand ($215,400).
+  2026-02-20  Independent lab engaged for gradation dispute.
+  2026-03-01  Principal formally disputes $38,000 subset of claim.
+
+Reserve Summary:
+  Undisputed claim amount:        $177,400
+  Disputed amount (under review): $38,000
+  ALAE reserve:                   $15,000
+  Gross reserve:                  $192,400
+  Anticipated indemnity recovery: ($177,400)
+  Net reserve:                    $30,000
+
+################################################################################
+# END OF MOCK DATA DOCUMENT SET
+################################################################################

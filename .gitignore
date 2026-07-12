@@ -1,0 +1,32 @@
+# ===== Python (backend) =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+
+# Logs
+**/logs/*.log
+
+# Generated ChromaDB vector store (rebuilt via ingest)
+**/database/chroma_db/
+
+# Build / deploy artifacts
+*.zip
+
+# ===== Node / Angular (frontend) =====
+node_modules/
+frontend/dist/
+frontend/out-tsc/
+frontend/.angular/
+npm-debug.log*
+yarn-error.log*
+
+# ===== Editors / OS =====
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

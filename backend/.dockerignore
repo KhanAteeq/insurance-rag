@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local data / caches (do NOT bake into the image)
+app/database/chroma_db/*
+app/data/pdfs/*.pdf
+app/logs/*
+!app/database/chroma_db/.gitkeep
+!app/data/pdfs/.gitkeep
+
+# Env & secrets
+.env
+
+# Docs
+README.md
+*.md

@@ -1,0 +1,18 @@
+# Angular / Node
+/node_modules
+/dist
+/out-tsc
+/.angular
+
+# Editors
+/.vscode/*
+!/.vscode/extensions.json
+.idea
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+Thumbs.db

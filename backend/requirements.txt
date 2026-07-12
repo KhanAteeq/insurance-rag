@@ -1,0 +1,40 @@
+# ============================================================================
+# Insurance RAG — Backend Python dependencies
+# Python 3.11+ recommended. Install with:
+#     python -m venv .venv
+#     .venv\Scripts\activate      (Windows)
+#     pip install -r requirements.txt
+# ============================================================================
+
+# --- Web framework / server ------------------------------------------------
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9          # required for file-upload (multipart/form-data)
+
+# --- Configuration / validation --------------------------------------------
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# --- PDF reading -----------------------------------------------------------
+PyMuPDF==1.24.10                 # imported as `fitz`
+
+# --- Embeddings ------------------------------------------------------------
+sentence-transformers==3.1.1
+# torch is pulled in by sentence-transformers; pin CPU build if desired.
+
+# --- Vector database -------------------------------------------------------
+# ChromaDB 1.x ships prebuilt Windows wheels and no longer depends on the
+# source-only `chroma-hnswlib` C++ extension, so no MSVC Build Tools are needed.
+# The client API used in app/services/vectordb.py (PersistentClient,
+# get_or_create_collection, upsert, query, get, delete, count) is unchanged.
+chromadb==1.0.21
+
+# --- Local LLM client ------------------------------------------------------
+ollama==0.3.3
+httpx==0.27.2
+
+# --- Azure OpenAI (used when BACKEND_MODE=azure) ---------------------------
+openai>=1.55,<2
+
+# --- Numerics --------------------------------------------------------------
+numpy==1.26.4
